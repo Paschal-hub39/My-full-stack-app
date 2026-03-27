@@ -1,11 +1,17 @@
 {
   "short_name": "Paschala",
   "name": "Paschala Edit: Azubuike Paschal",
+  "description": "Premium Android development and creative editing portfolio by Azubuike Paschal Kamsiyochukwu.",
   "icons": [
+    { "src": "391920b5313be4a92336a4b7a0dd3e54.jpg", "sizes": "72x72", "type": "image/jpg" },
+    { "src": "391920b5313be4a92336a4b7a0dd3e54.jpg", "sizes": "128x128", "type": "image/jpg" },
+    { "src": "391920b5313be4a92336a4b7a0dd3e54.jpg", "sizes": "192x192", "type": "image/jpg" },
     { "src": "391920b5313be4a92336a4b7a0dd3e54.jpg", "sizes": "512x512", "type": "image/jpg" }
   ],
   "start_url": "index.html",
+  "scope": "/",
   "background_color": "#0b0e14",
   "display": "standalone",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary"
 }
